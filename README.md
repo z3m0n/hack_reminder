@@ -7,13 +7,13 @@ Bash script for Termux to send periodic reminder notifications to Android device
 * make file executable with `chmod +x hack_reminder.sh`
 * run with `./hack_reminder.sh`
 
+### TERMUX INFO
+- for more information on the Termux application, API, etc. [Official Termux Wiki](https://wiki.termux.com/wiki/Main_Page)
 
 ### FUTURE IMPROVEMENTS
 - TBD
 - TBD
 
-### TERMUX INFO
-- for more information on the Termux application, API, etc. [Official Termux Wiki](https://wiki.termux.com/wiki/Main_Page)
 ### RELEASE NOTES
 - Last Modified: 11/24/2020
 ##### Created with :heart: by flowenol (agk_)
