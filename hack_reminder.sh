@@ -8,7 +8,6 @@
 # + add button to restart the script! - wont work :(
 
 title="tryhackme"
-message="less than 12 hours to keep the streak alive!"
 
 minute=60
 hour=3600
