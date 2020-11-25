@@ -1,5 +1,6 @@
 # hack_reminder
 Bash script for Termux to send periodic reminder notifications to Android devices.
+Originally developed to help keep tryhackme.com streaks alive.
 
 ## INSTALL
 * clone this repo to local machine && cd to directory
